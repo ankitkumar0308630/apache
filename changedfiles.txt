@@ -1,0 +1,29 @@
+####Changes for Fri Jun 17 00:50:19 EDT 2016#####
+# On branch ip-172-31-19-17.ec2.internal
+#
+# Initial commit
+#
+# Changes to be committed:
+#   (use "git rm --cached <file>..." to unstage)
+#
+#	new file:   conf.d/README
+#	new file:   conf.d/autoindex.conf
+#	new file:   conf.d/userdir.conf
+#	new file:   conf.d/welcome.conf
+#	new file:   conf.modules.d/00-base.conf
+#	new file:   conf.modules.d/00-dav.conf
+#	new file:   conf.modules.d/00-lua.conf
+#	new file:   conf.modules.d/00-mpm.conf
+#	new file:   conf.modules.d/00-proxy.conf
+#	new file:   conf.modules.d/00-systemd.conf
+#	new file:   conf.modules.d/01-cgi.conf
+#	new file:   conf/httpd.conf
+#	new file:   conf/magic
+#	new file:   logs
+#	new file:   modules
+#	new file:   run
+#
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	changedfiles.txt
